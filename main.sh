@@ -35,7 +35,7 @@ function tampilkan_logo () {
 
     +------------------------------------------------------------+
     | \e[38;5;15;1mGitHub\e[0m:   \e[31;1mhttps://github.com/EAGLEBLUETEAM\e[0m                 |
-    | \e[38;5;15;1mWhatsApp\e[0m: \e[31;1mhttps://chat.whatsapp.com/DkbrGF6wOdy7KjxN9tjeL6\e[0m |
+    | \e[38;5;15;1mWhatsApp\e[0m: \e[31;1mhttps://chat.whatsapp.com/Kn644dL9qnFKMEnOwR27VF\e[0m |
     +------------------------------------------------------------+';
 }
 
